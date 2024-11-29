@@ -1,4 +1,4 @@
-<img  align="center" width="100%" height="100%" src="https://github.com/user-attachments/assets/53c9da47-1ea7-46b3-8bb4-f16b4514e236" alt="banner" />
+<img  align="center" width="100%" height="100%" src="https://github.com/user-attachments/assets/635c6139-c29c-4402-9aaa-c0c1287c3c63" alt="banner" />
 
 
 <h1 align="center">Hi 👋, I'm MOHAMMED AMEERKHAN</h1>
