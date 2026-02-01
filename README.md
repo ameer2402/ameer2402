@@ -28,23 +28,32 @@ I love building scalable web applications and turning ideas into real-world prod
   <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="45"/>
   <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="45"/>
   <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="45"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="45"/>
   <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="45"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" height="45"/>
   <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="45"/>
 </p>
+
 
 ### ⚙️ Backend
 <p align="left">
   <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="45"/>
   <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" height="45"/>
   <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="45"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" height="45"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/hibernate-original-wordmark.svg" height="45"/>
 </p>
 
-### 🗄️ Database & Tools
+
+### 🗄️ Database & ORM
 <p align="left">
   <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="45"/>
   <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="45"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="45"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/java-original.svg" height="0"/> <!-- spacer -->
   <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="45"/>
 </p>
+
 
 ---
 
