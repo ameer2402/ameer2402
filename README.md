@@ -1,38 +1,126 @@
-<img  align="center" width="100%" height="100%" src="https://github.com/user-attachments/assets/635c6139-c29c-4402-9aaa-c0c1287c3c63" alt="banner" />
 
+## 👨‍💻 About Me
 
-<h1 align="center">Hi 👋, I'm MOHAMMED AMEERKHAN</h1>
-<h3 align="center">A passionate MERN STACK developer from India</h3>
+Hello! My name is **Mohammed Ameerkhan**, and I’m a passionate **Full Stack Developer** from India.
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+My journey into web development began during my third year of college when I joined a bootcamp that sparked my curiosity in frontend development. Over time, I expanded into backend systems and databases, giving me a strong foundation in building full-stack applications.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ameer2402&label=Profile%20views&color=0e75b6&style=flat" alt="ameer2402" /> </p>
+Currently, I’m working on projects using the **MERN stack** and continuously exploring new technologies to build scalable, accessible, and impactful web applications.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ameer2402" alt="ameer2402" /></a> </p>
+---
 
-- 🔭 I’m currently working on **Blog Space Application**
+## 🛠️ What I Work With
 
-- 🌱 I’m currently learning **MongoDB,Advanced Concepts in Node.js,React.js**
+### 💻 Skills
 
-- 💬 Ask me about **react,node,express,html,css,javascript,java**
+**Frontend**
+- HTML, CSS, JavaScript
+- React.js
+- Bootstrap
 
-- 📫 How to reach me **ameerkhan20241a0497@gmail.com**
+**Backend**
+- Node.js
+- Express.js
+- Java
+- SQL
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1biLh6vYDyVNVmEEcxzj9ekyQbabCdjt3/view?usp=sharing](https://drive.google.com/file/d/1biLh6vYDyVNVmEEcxzj9ekyQbabCdjt3/view?usp=sharing)
+**Database & Tools**
+- MongoDB
+- Git & GitHub
 
-- ⚡ Fun fact **I think Iam funny**
+---
 
-<h3 align="left">Connect with me:</h3>
+## 🏢 Experience
+
+### 🔹 Google — Software Application Developer  
+**Apr 2025 · Present**
+
+- Working on Google Search’s AI-powered **Real World Journeys (RWJ)** team.
+- Building and optimizing microservice-based data pipelines.
+- Improving data reliability and answer quality using first-party Knowledge Graph data.
+- Contributed to UI/UX improvements and enhanced system reliability through testing and debugging.
+
+**Tech:** Java, TypeScript, Microservices, Graph Databases, React, Google Knowledge Graph
+
+---
+
+### 🔹 LTIMindtree — Java Full Stack Developer (Team Lead)  
+**Dec 2024 · Mar 2025 · 3 months**
+
+- Led a team of 5 developers to build a full-scale **Pet Care Application** within 10 days.
+- Designed system architecture and guided the team through the complete SDLC.
+- Built RESTful APIs using Spring Boot and implemented data persistence using JPA and MySQL.
+- Standardized API documentation with Swagger and validated integrations using Postman.
+
+**Tech:** Java, Spring Boot, Angular, MySQL, REST APIs, Swagger, Hibernate, HTML, CSS, Postman
+
+---
+
+## 🚀 Projects
+
+### 📝 Blog Space
+A responsive full-stack blogging platform with secure authentication and a rich user experience.
+
+**Tech:** Express.js, EJS, Node.js, MongoDB, JWT, Google OAuth, Bootstrap, Cloudinary, Nodemailer
+
+---
+
+### 🔐 Role-Based Access Control System
+A Node.js application implementing RBAC for Admin, Moderator, and Client roles.
+
+**Tech:** Node.js, Express.js, MongoDB, JWT, Sessions, Express Flash
+
+---
+
+### ❌⭕ Tic-Tac-Toe
+A simple and interactive Tic-Tac-Toe game.
+
+**Tech:** HTML, CSS, JavaScript
+
+---
+
+### 📰 NewsApp
+A responsive React application that fetches and displays the latest news by category.
+
+**Tech:** React, React Router, Bootstrap, Mediastack API
+
+---
+
+### 🎓 Proviz School of AI – Landing Page
+A full-stack landing page designed to attract prospective students with a secure application form.
+
+**Tech:** Node.js, Express.js, EJS, MongoDB, HTML, CSS, JavaScript, Mongoose
+
+---
+
+### 🌡️ Temperature Converter
+A temperature converter supporting Fahrenheit and Kelvin to Celsius with dark/light mode.
+
+**Tech:** HTML, CSS, JavaScript, Bootstrap
+
+---
+
+## 🤝 Hire Me
+
+I’m open to **freelance opportunities**, internships, and full-time roles—especially ambitious or meaningful projects.
+
+---
+
+## 📫 Get in Touch
+
 <p align="left">
-<a href="https://instagram.com/i_mr_khan.786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_mr_khan.786" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ameerkhan20241a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ameerkhan20241a1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ameerkhan2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ameerkhan2002" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ameerkhan2shal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ameerkhan2shal" height="30" width="40" /></a>
+<a href="https://wa.me/ameer" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+<a href="mailto:ameerkhan20241a0497@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/ameer2402" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ameer2402&show_icons=true&locale=en&layout=compact" alt="ameer2402" /></p>
+⭐ Thanks for stopping by! Let’s build something amazing together 😊
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ameer2402&show_icons=true&locale=en" alt="ameer2402" /></p>
