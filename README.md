@@ -1,4 +1,3 @@
-<img align="center" width="100%" src="https://github.com/user-attachments/assets/635c6139-c29c-4402-9aaa-c0c1287c3c63" alt="banner" />
 
 <h1 align="center">Hi 👋, I'm Mohammed Ameerkhan</h1>
 <h3 align="center">🚀 Full Stack Developer | MERN Stack</h3>
