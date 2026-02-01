@@ -1,126 +1,139 @@
+<img align="center" width="100%" src="https://github.com/user-attachments/assets/635c6139-c29c-4402-9aaa-c0c1287c3c63" alt="banner" />
 
-## 👨‍💻 About Me
+<h1 align="center">Hi 👋, I'm Mohammed Ameerkhan</h1>
+<h3 align="center">🚀 Full Stack Developer | MERN Stack</h3>
 
-Hello! My name is **Mohammed Ameerkhan**, and I’m a passionate **Full Stack Developer** from India.
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-My journey into web development began during my third year of college when I joined a bootcamp that sparked my curiosity in frontend development. Over time, I expanded into backend systems and databases, giving me a strong foundation in building full-stack applications.
-
-Currently, I’m working on projects using the **MERN stack** and continuously exploring new technologies to build scalable, accessible, and impactful web applications.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ameer2402&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 🛠️ What I Work With
+## 🧑‍💻 About Me
 
-### 💻 Skills
+Hello! I’m **Mohammed Ameerkhan**, a passionate **Full Stack Developer** from India 🇮🇳  
+I love building scalable web applications and turning ideas into real-world products.
 
-**Frontend**
-- HTML, CSS, JavaScript
-- React.js
-- Bootstrap
+💡 Started my web dev journey during college through a bootcamp  
+🛠️ Strong in both frontend & backend development  
+🌱 Currently building projects using the **MERN stack**
 
-**Backend**
-- Node.js
-- Express.js
-- Java
-- SQL
+---
 
-**Database & Tools**
-- MongoDB
-- Git & GitHub
+## 🛠️ Tech Stack & Tools
+
+### 🎨 Frontend
+<p align="left">
+  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="45"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="45"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="45"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="45"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="45"/>
+</p>
+
+### ⚙️ Backend
+<p align="left">
+  <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="45"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" height="45"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="45"/>
+</p>
+
+### 🗄️ Database & Tools
+<p align="left">
+  <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="45"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="45"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="45"/>
+</p>
 
 ---
 
 ## 🏢 Experience
 
-### 🔹 Google — Software Application Developer  
-**Apr 2025 · Present**
+### 🟦 Google — Software Application Developer  
+📅 **Apr 2025 · Present**
 
-- Working on Google Search’s AI-powered **Real World Journeys (RWJ)** team.
-- Building and optimizing microservice-based data pipelines.
-- Improving data reliability and answer quality using first-party Knowledge Graph data.
-- Contributed to UI/UX improvements and enhanced system reliability through testing and debugging.
+- 🧠 Working on Google Search’s **AI-powered Real World Journeys (RWJ)**
+- ⚙️ Building microservice-based data pipelines
+- 📈 Improved data reliability & AI answer quality
+- 🎨 Contributed to UI/UX improvements
 
-**Tech:** Java, TypeScript, Microservices, Graph Databases, React, Google Knowledge Graph
+**Tech:** Java · TypeScript · Microservices · React · Graph Databases
 
 ---
 
-### 🔹 LTIMindtree — Java Full Stack Developer (Team Lead)  
-**Dec 2024 · Mar 2025 · 3 months**
+### 🟨 LTIMindtree — Java Full Stack Developer (Team Lead)  
+📅 **Dec 2024 · Mar 2025**
 
-- Led a team of 5 developers to build a full-scale **Pet Care Application** within 10 days.
-- Designed system architecture and guided the team through the complete SDLC.
-- Built RESTful APIs using Spring Boot and implemented data persistence using JPA and MySQL.
-- Standardized API documentation with Swagger and validated integrations using Postman.
+- 👥 Led a team of 5 developers
+- 🏗️ Designed full-stack architecture
+- 🔗 Built REST APIs using Spring Boot
+- 📑 API documentation with Swagger
 
-**Tech:** Java, Spring Boot, Angular, MySQL, REST APIs, Swagger, Hibernate, HTML, CSS, Postman
+**Tech:** Java · Spring Boot · Angular · MySQL · REST · Swagger
 
 ---
 
 ## 🚀 Projects
 
 ### 📝 Blog Space
-A responsive full-stack blogging platform with secure authentication and a rich user experience.
-
-**Tech:** Express.js, EJS, Node.js, MongoDB, JWT, Google OAuth, Bootstrap, Cloudinary, Nodemailer
+📰 Full-stack blogging platform with secure authentication  
+**Tech:** Node.js · Express · MongoDB · JWT · Google OAuth · Cloudinary
 
 ---
 
 ### 🔐 Role-Based Access Control System
-A Node.js application implementing RBAC for Admin, Moderator, and Client roles.
-
-**Tech:** Node.js, Express.js, MongoDB, JWT, Sessions, Express Flash
+🛡️ Secure RBAC system with Admin / Moderator / Client roles  
+**Tech:** Node.js · Express · MongoDB · Sessions · JWT
 
 ---
 
 ### ❌⭕ Tic-Tac-Toe
-A simple and interactive Tic-Tac-Toe game.
-
-**Tech:** HTML, CSS, JavaScript
+🎮 Interactive browser-based game  
+**Tech:** HTML · CSS · JavaScript
 
 ---
 
 ### 📰 NewsApp
-A responsive React application that fetches and displays the latest news by category.
-
-**Tech:** React, React Router, Bootstrap, Mediastack API
+🗞️ React app displaying latest news by category  
+**Tech:** React · React Router · Bootstrap · Mediastack API
 
 ---
 
 ### 🎓 Proviz School of AI – Landing Page
-A full-stack landing page designed to attract prospective students with a secure application form.
-
-**Tech:** Node.js, Express.js, EJS, MongoDB, HTML, CSS, JavaScript, Mongoose
+🎯 Full-stack landing page with application form  
+**Tech:** Node.js · Express · MongoDB · EJS · Mongoose
 
 ---
 
 ### 🌡️ Temperature Converter
-A temperature converter supporting Fahrenheit and Kelvin to Celsius with dark/light mode.
-
-**Tech:** HTML, CSS, JavaScript, Bootstrap
+🌗 Dark / Light mode temperature converter  
+**Tech:** HTML · CSS · JavaScript · Bootstrap
 
 ---
 
 ## 🤝 Hire Me
 
-I’m open to **freelance opportunities**, internships, and full-time roles—especially ambitious or meaningful projects.
+💼 Open to **freelance**, **internships**, and **full-time roles**  
+Let’s build something impactful together!
 
 ---
 
-## 📫 Get in Touch
+## 📫 Connect With Me
 
 <p align="left">
-<a href="https://wa.me/ameer" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-<a href="mailto:ameerkhan20241a0497@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/ameer2402" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+  <a href="https://wa.me/ameer">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="mailto:ameerkhan20241a0497@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ameer2402">
+    <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-⭐ Thanks for stopping by! Let’s build something amazing together 😊
-
+⭐ Thanks for visiting my profile! Let’s connect and build 🚀
