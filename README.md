@@ -17,7 +17,7 @@ I love building scalable web applications and turning ideas into real-world prod
 
 💡 Started my web dev journey during college through a bootcamp  
 🛠️ Strong in both frontend & backend development  
-🌱 Currently building projects using the **MERN stack**
+🌱 Currently working in **Google** and creating impact in  **Google Search AI Mode**
 
 ---
 
