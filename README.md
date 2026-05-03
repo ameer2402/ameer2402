@@ -398,10 +398,7 @@ A full-stack ticket booking platform featuring interactive seat selection, real-
 
 <br/>
 
-<!-- ============== TWINKLING WAVE FOOTER WITH MESSAGE ============== -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f093fb,50:764ba2,100:667eea&height=180&section=footer&text=Thanks%20for%20Visiting!%20%E2%9C%A8&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=70&desc=Let%27s%20Connect%20%26%20Build%20Something%20Great&descSize=16&descAlignY=88&descAlign=50"/>
-</div>
+
 
 <!-- ============== STAR REPOS CTA ============== -->
 <div align="center">
