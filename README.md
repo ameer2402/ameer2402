@@ -353,7 +353,7 @@ A full-stack ticket booking platform featuring interactive seat selection, real-
 ## 🤝 Let's Build Something Amazing Together
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mohammed-ameerkhan-22368626a/">
+  <a href="https://www.linkedin.com/in/ameerkhan-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
   </a>
   <a href="mailto:ameerkhan20241a0497@gmail.com">
