@@ -225,7 +225,7 @@ A full-stack enterprise application built at LTIMindtree supporting Pet Owners, 
 
 ---
 
-### 🎬 [Movie Booking Application](https://github.com/ameer2402/MovieBooking)
+### 🎬 [Movie Booking Application](https://github.com/ameer2402/MovieBookingApplication)
 
 A full-stack ticket booking platform featuring interactive seat selection, real-time availability updates, multi-step payment confirmation flows, and email notifications.
 
