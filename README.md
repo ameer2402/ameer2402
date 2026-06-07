@@ -207,7 +207,7 @@ A production-grade blogging platform with **99% uptime**, supporting end-to-end 
 
 ---
 
-### 🐾 [Pet Care Management System](https://github.com/ameer2402/PetCare)
+### 🐾 [Pet Care Management System]
 
 A full-stack enterprise application built at LTIMindtree supporting Pet Owners, Veterinarians, and Admins with isolated permissions and secure data access — delivered in a strict 10-day Agile sprint.
 
